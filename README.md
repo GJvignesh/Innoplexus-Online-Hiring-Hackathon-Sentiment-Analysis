@@ -40,3 +40,7 @@ The final rankings would be based on your private score which will be published 
 __Public Leaderboard: 74 (Score: 0.4850616849)__
 
 __Private Leaderboard: 29 (Score: 0.5230949840)__
+
+
+
+0.5194833881
